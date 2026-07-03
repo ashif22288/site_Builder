@@ -2,7 +2,7 @@
 ---
 # 🌐 SiteBuilder – AI-Powered Website Builder
 
-Owner: **Ashif khan**  
+Owner: **Md Ashif**  
 Email: **ashif22288@iiitd.ac.in**
 
 SiteBuilder is a **full-stack, AI-powered, token-based website builder** that allows users to generate and deploy complete websites simply by writing **natural language prompts**. It combines modern web technologies, secure payments, and scalable infrastructure to deliver a production-ready platform.

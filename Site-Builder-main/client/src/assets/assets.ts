@@ -32,7 +32,7 @@ export const appPlans = [
     ]
 
 export const dummyUser = {
-    name: "Ashif khan",
+    name: "Md Ashif",
     id: 'xyz',
     email: 'ashif22288@iiitd.ac.in'
 }
